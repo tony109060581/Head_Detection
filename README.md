@@ -9,7 +9,7 @@ Download opencv_dll and put it to current directory [BaiDu Cloud](https://pan.ba
 Set parameters:
 `HeadDet.exe img_path thresh(0-1)`
 ```cpp
-like:    HeadDet.exe D:/test_images/ 0.24  (for imgdir)
+like:    HeadDet.exe images/ 0.24  (for imgdir)
 ```
 # Algorithm efficiency
 | Image Size | Speed | CPU |
